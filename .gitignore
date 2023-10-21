@@ -1,0 +1,6 @@
+node_modules
+coverage
+.env
+dicoding-expert.pem
+package-lock.json
+config/database/test.json
